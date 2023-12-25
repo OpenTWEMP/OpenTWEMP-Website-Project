@@ -1,3 +1,9 @@
-# OpenTWEMP-Community-Website
+# :globe_with_meridians: OpenTWEMP Website Project
 
-This repository contains static web content for the OpenTWEMP official website.
+---
+
+## :sound: Welcome to OpenTWEMP Website Project
+
+This repository contains static website content for the **Open Total War Engine Modding Platform**.
+
+---
